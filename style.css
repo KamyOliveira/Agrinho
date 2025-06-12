@@ -86,13 +86,13 @@ body {
 }
 
 #showMoreButton:hover {
-  background-color: #218838;
+  background-color: #f0f5f1;
 }
 
 /* Info adicional */
 #additionalInfo {
   padding: 20px;
-  background-color: #e9ecef;
+  background-color: #e5e8ec;
   border-radius: 5px;
   margin-top: 20px;
 }
